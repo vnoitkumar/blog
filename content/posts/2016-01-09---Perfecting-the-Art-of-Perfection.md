@@ -3,7 +3,7 @@ template: post
 slug: perfecting-the-art-of-perfection
 draft: false
 socialImage: /media/image-2.jpg
-title: Perfecting the Art of Perfection
+title: Perfecting the Art of Perfection1
 date: 2016-09-01T23:46:37.121Z
 description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
   at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
