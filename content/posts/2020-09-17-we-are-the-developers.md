@@ -2,7 +2,7 @@
 template: post
 title: We are the developers
 slug: gitsbidea
-draft: true
+draft: false
 date: 2020-09-17T12:45:00.882Z
 description: The blog has been developed by Gitsbidea
 category: General
