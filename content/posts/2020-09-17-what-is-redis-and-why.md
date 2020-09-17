@@ -2,7 +2,7 @@
 template: post
 title: What is Redis and Why?
 slug: redis-slug
-draft: true
+draft: false
 date: 2020-09-17T15:27:42.330Z
 description: Redis is an open-source, in-memory data structure store used as
   database, cache and message broker
