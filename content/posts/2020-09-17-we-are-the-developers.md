@@ -1,6 +1,6 @@
 ---
 template: post
-title: We are the developers
+title: We are the developers 1
 socialImage: /media/img_20200803_173014_115.jpg
 slug: Developers
 draft: false
