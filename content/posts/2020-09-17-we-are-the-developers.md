@@ -3,7 +3,7 @@ template: post
 title: We are the developers
 socialImage: /media/img_20200803_173014_115.jpg
 slug: Developers
-draft: true
+draft: false
 date: 2020-09-17T12:56:19.017Z
 description: We are the developers
 category: General
