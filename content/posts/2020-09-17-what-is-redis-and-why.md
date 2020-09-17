@@ -10,44 +10,32 @@ category: Redis
 tags:
   - redis tag
 ---
+![](/media/optional-chaining.png)
+
 ## What is Redis?
 
-- Redis is an open-source, in-memory data structure store used as database, cache and message broker
+* Redis is an open-source, in-memory data structure store used as database, cache and message broker
+* Redis, which stands for **Re**mote **Di**ctionary **S**erver.
+* NoSQL Key/Value Store with some advance features.
+* The different between MongoDB and Redis is Mongo DB is a disk-based document store while Redis is a memory-based.
+* Redis does not support any built-in data encryption
 
-- Redis, which stands for **Re**mote **Di**ctionary **S**erver.
-
-- NoSQL Key/Value Store with some advance features.
-
-- The different between MongoDB and Redis is Mongo DB is a disk-based document store while Redis is a memory-based.
-
-- Redis does not support any built-in data encryption
-
----
+- - -
 
 ## [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
 
+* Redis is blazingly fast it's written in C, runs entirely in memory and is optimized to deliver millions of operations with sub-millisecond latency with a single standard server.
+* Pre-built data structures for popular use cases which are used by developer like LEGO building blocks when creating new apps.
+* These built-in data structures include lists, sets, sorted sets, hashes, hyperloglogs, bitmaps, geospatial indexes, bitfields, streams and strings.
+* Redis commands allow data to be processed on the database level rather than the application level, reducing coding effort, code complexity and bandwidth requirements.
+* Redis can be extended infinitely.
+* With Redis Modules that expand Redis infinitely, and it allows to add custom functionality and structures.
+* And Modules that do everything from search to machine learning, security, JSON to graph data processing and more.
+* Has client libraries for every language.
+* The hottest Redis uses includes real-time analytics, High-speed transactions, High-speed data ingest, Message queues, Session storage, In-app social functionality, application job management, Search, Machine learning and caching.
+* Redis has been benchmarked as the world's fastest database.
 
-- Redis is blazingly fast it's written in C, runs entirely in memory and is optimized to deliver millions of operations with sub-millisecond latency with a single standard server.
-
-- Pre-built data structures for popular use cases which are used by developer like LEGO building blocks when creating new apps.
-
-- These built-in data structures include lists, sets, sorted sets, hashes, hyperloglogs, bitmaps, geospatial indexes, bitfields, streams and strings.
-
-- Redis commands allow data to be processed on the database level rather than the application level, reducing coding effort, code complexity and bandwidth requirements.
-
-- Redis can be extended infinitely.
-
-- With Redis Modules that expand Redis infinitely, and it allows to add custom functionality and structures.
-
-- And Modules that do everything from search to machine learning, security, JSON to graph data processing and more.
-
-- Has client libraries for every language.
-
-- The hottest Redis uses includes real-time analytics, High-speed transactions, High-speed data ingest, Message queues, Session storage, In-app social functionality, application job management, Search, Machine learning and caching.
-
-- Redis has been benchmarked as the world's fastest database.
-
----
+- - -
 
 ## [Data types in Redis](https://redis.io/topics/data-types)
 
@@ -87,7 +75,7 @@ $ redis-cli # opens a redis prompt
 7. [MSETNX](#MSETNX) - **M**ulti **SET** if **N**ot e**X**ists
 8. [MGET](#MGET) - **M**ulti **GET**
 
-**Note** : _Other keywords are self-explanatory_
+**Note** : *Other keywords are self-explanatory*
 
 ### [SET](https://redis.io/commands/set)
 
@@ -102,7 +90,7 @@ SET key value # Syntax
 SET mykey "Hello" # Examples
 ```
 
----
+- - -
 
 ### [SETNX](https://redis.io/commands/setnx)
 
@@ -119,7 +107,7 @@ SETNX key value # Syntax
 SETNX mykey "Hello" # Examples
 ```
 
----
+- - -
 
 ### [GET](https://redis.io/commands/get)
 
@@ -135,7 +123,7 @@ GET key # Syntax
 GET mykey # Example
 ```
 
----
+- - -
 
 ### [DEL](https://redis.io/commands/del)
 
@@ -151,7 +139,7 @@ DEL key [key ...] # Syntax
 DEL key1 key2 key3 # Example
 ```
 
----
+- - -
 
 ### [EXISTS](https://redis.io/commands/exists)
 
@@ -165,7 +153,7 @@ EXISTS key [key ...] # Syntax
 EXISTS key1 key2 # Example
 ```
 
----
+- - -
 
 ### [MSET](https://redis.io/commands/mset)
 
@@ -180,7 +168,7 @@ MSET key value [key value ...] # Syntax
 MSET key1 "Hello" key2 "World" # Example
 ```
 
----
+- - -
 
 ### [MSETNX](https://redis.io/commands/msetnx)
 
@@ -195,7 +183,7 @@ MSETNX key value [key value ...] # Syntax
 MSETNX key1 "Hello" key2 "there" # Example
 ```
 
----
+- - -
 
 ### [MGET](https://redis.io/commands/mget)
 
@@ -212,6 +200,6 @@ MGET key1 key2 # Example
 
 ## Resource
 
-- [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
-- [Learn Redis from Scratch](https://www.eduonix.com/new_dashboard/learn-redis-from-scratch)
-- [Awesome cheat sheet redis](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/redis.sh)
+* [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
+* [Learn Redis from Scratch](https://www.eduonix.com/new_dashboard/learn-redis-from-scratch)
+* [Awesome cheat sheet redis](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/databases/redis.sh)
