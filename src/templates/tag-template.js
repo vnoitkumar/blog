@@ -69,6 +69,7 @@ export const query = graphql`
             title
             date
             author
+            submission
             description
           }
         }

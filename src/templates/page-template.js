@@ -41,6 +41,8 @@ export const query = graphql`
       frontmatter {
         title
         date
+        author
+        submission
         description
         socialImage {
           publicURL

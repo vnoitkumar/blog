@@ -32,7 +32,8 @@ export type Node = {
     date: string,
     description?: string,
     category?: string,
-    tags?: string[],
+    author?: string,
+    submission?: string,
     title: string,
     socialImage?: {
       publicURL: string
