@@ -8,7 +8,7 @@ const useTagsList = () => {
         allMarkdownRemark(
           filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
         ) {
-          group(field: frontmatter___tags) {
+          group(field: frontmatter___submission) {
             fieldValue
             totalCount
           }

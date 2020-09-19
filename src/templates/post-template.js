@@ -16,12 +16,10 @@ const PostTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
   const { frontmatter } = data.markdownRemark;
 
-  console.log({frontmatter});
+  console.log({ frontmatter });
   
   const { title: postTitle, description: postDescription, socialImage } = frontmatter;
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
-  
-  console.log({socialImage});
 
   const socialImageUrl = socialImage &&  socialImage['publicURL'] ? socialImage['publicURL'] : undefined;
 
@@ -45,6 +43,8 @@ export const query = graphql`
         date
         description
         tags
+        author
+        submission
         title
         socialImage {
           publicURL
