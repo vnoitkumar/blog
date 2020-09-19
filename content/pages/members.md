@@ -15,7 +15,7 @@ draft: false
       <img src="https://writersark.com/media/user-1-.svg" alt="User" class="list-item-image">
     </div>
     <div class="list-item-content">
-      <h4>Yogesh</h4>
+      <h4>Vinoth</h4>
       <p>
         Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in
         laying out print, graphic or web designs. The passage is attributed to
