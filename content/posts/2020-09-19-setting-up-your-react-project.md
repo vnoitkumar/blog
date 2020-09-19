@@ -1,16 +1,18 @@
 ---
 template: post
 title: Setting Up Your React Project
-socialImage: /media/optional-chaining.png
-slug: react
+slug: setting-up-your-react-project
 draft: false
 date: 2020-09-19T06:37:22.668Z
+submission: Set Up
+author: Vinoth
+socialImage: /media/optional-chaining.png
+tags:
+  - react
 description: In the section, we are going to see the necessary things to make
   sure before you start a react project. We are not going to do any changes in
   react, instead, we will focus on stuff that needs to be done before that.
 category: React
-tags:
-  - react
 ---
 In the section, we are going to see the necessary things to make sure before you start a react project. We are not going to do any changes in react, instead, we will focus on stuff that needs to be done before that.
 
