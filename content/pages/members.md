@@ -4,11 +4,13 @@ title: Members
 slug: members
 draft: false
 ---
+
 <style>
-  .list{background:#fff;border-radius:2px;list-style:none;padding:10px 20px}.list-item{display:flex;margin:10px;padding-bottom:5px;padding-top:5px;border-bottom:1px solid rgba(0,0,0,.1)}.list-item:last-child{border-bottom:none}.list-item-image{border-radius:50%;width:64px}.list-item-content{margin-left:20px}.list-item-content h4,.list-item-content p{margin:0}.list-item-content h4{margin-top:10px;font-size:18px}.list-item-content p{margin-top:5px;color:#aaa;max-width:800px}
+.list{background:#fff;border-radius:2px;list-style:none;padding:10px 20px}.list-item{display:flex;margin:10px;padding-bottom:5px;padding-top:5px;border-bottom:1px solid rgba(0,0,0,.1)}.list-item:last-child{border-bottom:none}.list-item-image{border-radius:50%;width:64px}.list-item-content{margin-left:20px}.list-item-content h4,.list-item-content p{margin:0}.list-item-content h4{margin-top:10px;font-size:18px}.list-item-content p{margin-top:5px;color:#aaa;max-width:800px}
 </style>
 
 <ul class="list">
+
   <!-- LIST ITEM STARTS -->
   <li class="list-item">
     <div>
@@ -31,7 +33,6 @@ draft: false
   </li>
   <!-- LIST ITEM ENDS -->
 
-
   <!-- LIST ITEM STARTS -->
   <li class="list-item">
     <div>
@@ -53,4 +54,5 @@ draft: false
     </div>
   </li>
   <!-- LIST ITEM ENDS -->
+
 </ul>
