@@ -23,13 +23,13 @@ const onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
-    if (node.frontmatter.tags) {
-      const tagSlugs = node.frontmatter.tags.map((tag) => `/submission/${_.kebabCase(tag)}/`);
+    if (node.frontmatter.submission) {
+      const tagSlugs = `/submission/${_.kebabCase(node.frontmatter.submission)}/`;
       createNodeField({ node, name: 'tagSlugs', value: tagSlugs });
     }
 
-    if (node.frontmatter.category) {
-      const categorySlug = `/author/${_.kebabCase(node.frontmatter.category)}/`;
+    if (node.frontmatter.author) {
+      const categorySlug = `/author/${_.kebabCase(node.frontmatter.author)}/`;
       createNodeField({ node, name: 'categorySlug', value: categorySlug });
     }
   }

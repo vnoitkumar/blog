@@ -26,7 +26,7 @@ export type Node = {
   fields: {
     slug: string,
     categorySlug?: string,
-    tagSlugs?: string[]
+    tagSlugs?: string
   },
   frontmatter: {
     date: string,
