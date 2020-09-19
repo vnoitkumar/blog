@@ -1,6 +1,6 @@
 ---
 template: page
-title: Contact me
+title: Contact us
 socialImage: /media/image-4.jpg
 slug: contacts
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Terms and Conditions"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---

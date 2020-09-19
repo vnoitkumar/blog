@@ -12,32 +12,44 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Home',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Submissions',
+      path: '/submissions'
     },
     {
-      label: 'Contact me',
+      label: 'Authors',
+      path: '/authors'
+    },
+    {
+      label: 'Members',
+      path: '/pages/members'
+    },
+    {
+      label: 'Contact us',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Terms and Conditions',
+      path: '/pages/terms-and-conditions'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Writer Sark',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'writersark@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
