@@ -37,7 +37,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Writer Sark',
+    name: 'Writers Ark',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
