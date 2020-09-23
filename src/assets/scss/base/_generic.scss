@@ -24,6 +24,13 @@ body {
   background-size: cover;
 }
 
+@media (max-width: 1023px) {
+  body {
+    background-image: url('/mobile-bg-img.jpg');
+    background-size: unset;
+  }
+}
+
 h1,
 h2,
 h3,
