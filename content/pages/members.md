@@ -8,7 +8,7 @@ draft: false
 <li class="member-list-item">
   <div>
     <img
-      src="https://writersark.com/media/user-1-.svg"
+      src="https://writersark.com/media/user.svg"
       alt="User"
       class="list-item-image"
     />
@@ -28,7 +28,7 @@ draft: false
 <li class="member-list-item">
   <div>
     <img
-      src="https://writersark.com/media/user-1-.svg"
+      src="https://writersark.com/media/user.svg"
       alt="User"
       class="list-item-image"
     />
