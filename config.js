@@ -7,7 +7,7 @@ module.exports = {
   pathPrefix: '/',
   title: appName,
   subtitle: 'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.',
-  copyright: '2020 © All rights reserved.',
+  copyright: 'Developed by GITSBIDEA © 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-178759071-1',

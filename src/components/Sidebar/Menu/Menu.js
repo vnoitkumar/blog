@@ -15,7 +15,7 @@ const Menu = ({ menu }: Props) => (
     <ul className={styles['menu__list']}>
       {menu.map((item) =>
         item.path === '/pages/terms-and-conditions' ? (
-          <></>
+          <li key={item.path}></li>
         ) : (
           <li className={styles['menu__list-item']} key={item.path}>
             <Link
