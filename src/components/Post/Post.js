@@ -20,7 +20,9 @@ const Post = ({ post }: Props) => {
 
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/">Home</Link>
+      <Link className={styles['post__home-button']} to='/'>
+        Home
+      </Link>
 
       <div className={styles['post__content']}>
         <Content body={html} title={title} />
@@ -28,7 +30,9 @@ const Post = ({ post }: Props) => {
 
       <div className={styles['post__footer']}>
         <Meta date={date} />
-        {submission && tagSlugs && <Tags tags={submission} tagSlugs={tagSlugs} />}
+        {submission && tagSlugs && (
+          <Tags tags={submission} tagSlugs={tagSlugs} />
+        )}
         <Author />
       </div>
 
