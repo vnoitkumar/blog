@@ -24,12 +24,6 @@ body {
   background-size: cover;
 }
 
-@media (max-width: 1023px) {
-  body {
-    background-image: none;
-  }
-}
-
 h1,
 h2,
 h3,
@@ -226,6 +220,18 @@ figcaption {
     min-width: 20px;
     display: flex;
     align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 684px) {
+  body {
+    background-image: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .listContainer {
     justify-content: center;
   }
 }
