@@ -184,10 +184,10 @@ module.exports = {
         name: siteConfig.title,
         short_name: siteConfig.title,
         start_url: '/',
-        background_color: '#FFF',
-        theme_color: '#F7A046',
+        background_color: '#FFFFFF',
+        theme_color: '#009FE3',
         display: 'standalone',
-        icon: 'static/photo.jpg'
+        icon: 'static/icon.png'
       },
     },
     'gatsby-plugin-offline',

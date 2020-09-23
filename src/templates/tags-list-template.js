@@ -14,13 +14,14 @@ const TagsListTemplate = () => {
   return (
     <Layout title={`Submissions - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title="Submissions">
-        <ul>
+      <Page title='Submissions'>
+        <ul className='listContainer'>
           {tags.map((tag) => (
             <li key={tag.fieldValue}>
               <Link to={`/submission/${kebabCase(tag.fieldValue)}/`}>
-                {tag.fieldValue} ({tag.totalCount})
+                <span>{tag.fieldValue}</span>
               </Link>
+              <span>{tag.totalCount}</span>
             </li>
           ))}
         </ul>

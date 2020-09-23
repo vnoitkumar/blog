@@ -1,14 +1,16 @@
 'use strict';
 
+const appName = 'Writer\'s ARK';
+
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://writersark.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: appName,
+  subtitle: 'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.',
+  copyright: '2020 © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-178759071-1',
   useKatex: false,
   menu: [
     {
@@ -37,11 +39,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Writers Ark',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: appName,
+    photo: '/logo.png',
+    bio: 'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.',
     contacts: {
-      email: 'writersark@gmail.com',
+      email: 'writersark2020@gmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
@@ -56,7 +58,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: ''
     }
   }
 };
