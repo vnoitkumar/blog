@@ -4,7 +4,7 @@ title: Setting Up Your React Project
 slug: setting-up-react-project
 draft: false
 date: 2020-09-19T06:45:46.142Z
-submission: Set Up
+submission: Tutorials
 author: Vinoth
 socialImage: /media/optional-chaining.png
 tags:
@@ -30,10 +30,6 @@ You can consider this section as a to-do list for setting up a react project.
 
 ### Quick Start
 
-```bash
-
-```
-
 ### ESLint
 
 [ESLint](https://eslint.org/) is a static code analysis tool for identifying problematic patterns found in JavaScript code.
@@ -41,10 +37,6 @@ You can consider this section as a to-do list for setting up a react project.
 Install [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) in your code editor.
 
 Create a `.eslintrc` file in the root directory of the project.
-
-```json
-
-```
 
 ### EditorConfig
 
@@ -56,10 +48,6 @@ Install [EditorConfig](https://marketplace.visualstudio.com/items?itemName=Edito
 
 Create a `.editorconfig` file in the root directory of the project.
 
-```javascript
-
-```
-
 ### Prettier
 
 [Prettier](https://prettier.io/) is a code formatter.
@@ -68,10 +56,6 @@ Add [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.pretti
 
 Create a `.prettierrc` file in the root directory of the project.
 
-```json
-
-```
-
 > Add or remove rules according to your convenience
 
 Go to [VS Code Setting](https://code.visualstudio.com/docs/getstarted/settings)
@@ -79,10 +63,6 @@ Go to [VS Code Setting](https://code.visualstudio.com/docs/getstarted/settings)
 Search for `"Editor: Formate On Save"` and make sure you check the box to formate the code when you save the file.
 
 If you are in the middle of the project and the codes are not formatted well you can do then as well.
-
-```bash
-
-```
 
 ### Checklist
 
