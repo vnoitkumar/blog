@@ -15,6 +15,9 @@ const Copyright = ({ copyright }: Props) => (
     >
       Terms and conditions apply
     </Link>
+    <div className={styles['copyright']}>
+      Developed by <span>GITSBIDEA</span>.
+    </div>
     <div className={styles['copyright']}>{copyright}</div>
   </>
 );
