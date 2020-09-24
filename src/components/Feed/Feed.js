@@ -39,7 +39,8 @@ const Feed = ({ edges }: Props) => (
           </time>
         </div>
         <p className={styles['feed__item-description']}>
-          {edge.node.frontmatter.description}
+          {edge.node.frontmatter.description.substring(0, 80)}
+          {edge.node.frontmatter.description.length > 80 && '...'}
         </p>
         {/* <Link
           className={styles['feed__item-readmore']}
