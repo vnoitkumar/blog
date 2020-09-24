@@ -4,8 +4,12 @@ title: Optional Chaining
 slug: optional-chaining
 draft: false
 date: 2020-09-19T06:50:10.206Z
-description: An optional chain is a chain of one or more property accesses and
-  function calls, the first of which begins with the token?
+description: "Contrary to popular belief, Lorem Ipsum is not simply random text.
+  It has roots in a piece of classical Latin literature from 45 BC, making it
+  over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
+  College in Virginia, looked up one of the more obscure Latin words,
+  consectetur, from a Lorem Ipsum passage, and going through the cites of the
+  word in classical literature, discovered the undoubtable source. "
 submission: JavaScript
 author: Vinoth
 ---
@@ -25,25 +29,11 @@ When used with function calls, it returns `undefined` if the given function does
 
 ## Optional callbacks or event handlers
 
-## Optional chaining with expressions
-
-## Optional chaining with an array
-
 > Optional chaining is forbidden in write contexts such as `a?.b = c`.
 > Optional deletion as in: `delete a ?.b` is supported.
 
-Let's see what babel transpiler does with this Optional chaining syntax
-
-It transpile into
+Let's see what babel transpiler does with this Optional chaining syntax.
 
 If you don't know what `void 0` does, it evaluates the given expression and then returns `undefined`.
-
-## Syntax
-
-### Resources
-
-1. [V8](https://v8.dev/features/optional-chaining)
-2. [tc39](https://tc39.es/proposal-optional-chaining/)
-3. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 
 Thanks for reading!
