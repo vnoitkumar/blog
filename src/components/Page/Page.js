@@ -10,6 +10,9 @@ const Page = ({ title, children }: Props) => {
   const pageRef = useRef();
 
   useEffect(() => {
+    if (window.location.pathname === '/') {
+      return;
+    }
     pageRef.current.scrollIntoView();
   });
 
