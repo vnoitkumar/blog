@@ -10,7 +10,7 @@ description: "Contrary to popular belief, Lorem Ipsum is not simply random text.
   College in Virginia, looked up one of the more obscure Latin words,
   consectetur, from a Lorem Ipsum passage, and going through the cites of the
   word in classical literature, discovered the undoubtable source. "
-submission: JavaScript
+submission: Story
 author: Vinoth
 ---
 An optional chain is a chain of one or more property accesses and function calls, the first of which begins with the token `?.`.
