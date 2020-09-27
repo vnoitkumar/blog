@@ -11,6 +11,9 @@ description: (written on a foggy morning by the banks of the Changu Lake, at a
   fog.  Almost like a spirit . . . . )
 submission: Poems
 author: PAUL MATHEW
+category: Poems
+tags:
+  - poem
 ---
 
 

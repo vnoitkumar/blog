@@ -1,5 +1,5 @@
 // @flow strict
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 import Author from './Author';
 import Comments from './Comments';
@@ -18,6 +18,14 @@ const Post = ({ post }: Props) => {
   const { tagSlugs, slug } = post.fields;
   const { submission, title, date } = post.frontmatter;
 
+  useEffect(function () {
+    document.body.className += ' post-page';
+
+    return function () {
+      document.body.className = document.body.className.replace("post-page","");
+    }
+  },[])
+
   return (
     <div className={styles['post']}>
       <Link className={styles['post__home-button']} to='/'>
@@ -33,7 +41,7 @@ const Post = ({ post }: Props) => {
         {submission && tagSlugs && (
           <Tags tags={submission} tagSlugs={tagSlugs} />
         )}
-        <Author />
+        {/* <Author /> */}
       </div>
 
       <div className={styles['post__comments']}>

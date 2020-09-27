@@ -22,6 +22,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  &.post-page {
+    background-color: #f9c74f;
+    background-image: none;
+    color: #000; 
+  }
 }
 
 h1,
