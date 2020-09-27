@@ -1,7 +1,7 @@
 ---
 template: post
 title: This is the Demo
-slug: demo
+slug: demos
 draft: false
 date: 2020-09-25T06:39:09.700Z
 description: This is the demo content description
