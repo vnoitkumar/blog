@@ -5,7 +5,7 @@ slug: perfect-pace
 draft: false
 date: 2020-09-27T12:57:29.755Z
 description: Beautiful Poem
-submission: POEMS
+submission: Poems
 author: GEETA
 ---
 
