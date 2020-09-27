@@ -6,8 +6,7 @@ module.exports = {
   url: 'https://writersark.com',
   pathPrefix: '/',
   title: appName,
-  subtitle:
-    'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.',
+  subtitle: '',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -42,14 +41,13 @@ module.exports = {
   author: {
     name: appName,
     photo: '/logo.png',
-    bio:
-      'Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.',
+    bio: '',
     contacts: {
       // to change the order of the icon change it in use-site-metadata.js file
       // email: 'writersark2020@gmail.com',
-      twitter: 'https://twitter.com/',
-      facebook: 'https://www.facebook.com/',
-      instagram: 'https://www.instagram.com/',
+      twitter: '',
+      facebook: 'groups/423330818645129',
+      instagram: 'writersark2020',
       email: '',
       telegram: '',
       github: '',
