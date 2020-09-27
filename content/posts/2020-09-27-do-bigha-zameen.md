@@ -1,7 +1,7 @@
 ---
 template: post
 title: DO BIGHA ZAMEEN
-slug: short-stories
+slug: do-bigha-zameen
 draft: false
 date: 2020-09-27T08:51:14.819Z
 description: A Story set in 1970
