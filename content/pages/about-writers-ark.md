@@ -1,7 +1,7 @@
 ---
-title: "Terms and Conditions"
+title: "About Writer's ARK"
 template: "page"
-slug: about-writers-ark
+slug: "about-writers-ark"
 draft: false
 ---
 
