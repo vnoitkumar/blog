@@ -8,6 +8,9 @@ description: Short Story by Padmini (Published in the International Journal on
   Multicultural Literature Vol.10)
 submission: SHORT STORIES
 author: PADMINI VISWANATHAN
+category: Poems
+tags:
+  - poem
 ---
 
 
