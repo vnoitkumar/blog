@@ -15,6 +15,7 @@ const CategoriesListTemplate = () => {
     <Layout title={`Authors - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title='Authors'>
+        <br />
         <ul className='listContainer'>
           {categories.map((category) => (
             <li key={category.fieldValue}>

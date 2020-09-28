@@ -25,7 +25,7 @@ body {
   &.post-page {
     background-color: #f9c74f;
     background-image: none;
-    color: #000; 
+    color: #000;
   }
 }
 
@@ -184,50 +184,101 @@ figcaption {
     float: left;
   }
 }
-
 .listContainer {
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
+  padding-left: 0px;
+  margin-bottom: 40px;
   li {
     list-style: none;
-    margin: 30px;
-    padding: 0;
-    border-radius: 20px;
-    background-color: #f1f3f6;
     position: relative;
+    padding-left: 45px;
+    margin-bottom: 45px;
+    &::before {
+      content: '\2714';
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      left: 20px;
+      top: 2px;
+      transform: translateX(-50%);
+      background-color: #fff;
+      color: #000;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px !important;
+    }
     a {
       display: inline-block;
       span {
-        padding: 10px;
-        height: 120px;
-        width: 200px;
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: center;
-        overflow: hidden;
+        font-weight: bold;
+        color: #fff;
+        font-size: 25px;
       }
-    }
-    &:hover {
-      box-shadow: 4px 4px 20px 1px #313131;
+      &:hover {
+        span {
+          color: #009fe2;
+        }
+      }
     }
   }
   li > span {
+    margin-left: 12px;
+    background: #009fe2;
     position: absolute;
-    top: -20px;
-    right: -20px;
-    padding: 10px;
     border-radius: 9999px;
-    background-color: #cb4b16;
-    height: 20px;
+    height: 26px;
     width: auto;
-    min-width: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    min-width: 26px;
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
   }
 }
+
+// .listContainer {
+//   padding: 0;
+//   display: flex;
+//   flex-wrap: wrap;
+//   li {
+//     list-style: none;
+//     margin: 30px;
+//     padding: 0;
+//     border-radius: 20px;
+//     background-color: #f1f3f6;
+//     position: relative;
+//     a {
+//       display: inline-block;
+//       span {
+//         padding: 10px;
+//         height: 120px;
+//         width: 200px;
+//         display: flex;
+//         flex-wrap: wrap;
+//         align-items: center;
+//         justify-content: center;
+//         overflow: hidden;
+//       }
+//     }
+//     &:hover {
+//       box-shadow: 4px 4px 20px 1px #313131;
+//     }
+//   }
+//   li > span {
+//     position: absolute;
+//     top: -20px;
+//     right: -20px;
+//     padding: 10px;
+//     border-radius: 9999px;
+//     background-color: #cb4b16;
+//     height: 20px;
+//     width: auto;
+//     min-width: 20px;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//   }
+// }
 
 // MEMBER PAGE STYLE starts
 // .member-list {
@@ -236,46 +287,46 @@ figcaption {
 // padding: 10px 20px;
 // }
 
-.member-list-item {
-  display: flex;
-  margin-bottom: 20px;
-  padding-bottom: 15px;
-  padding-top: 5px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  // .member-list-item:last-child {
-  //   border-bottom: none;
-  // }
-  .list-item-image {
-    border-radius: 50%;
-    width: 64px;
-  }
-  .list-item-content {
-    margin-left: 20px;
-  }
-  .list-item-content h4,
-  .list-item-content p {
-    margin: 0;
-  }
-  .list-item-content h4 {
-    font-size: 18px;
-  }
-  .list-item-content p {
-    margin-top: 5px;
-    color: #aaa;
-    max-width: 800px;
-  }
-}
+// .member-list-item {
+//   display: flex;
+//   margin-bottom: 20px;
+//   padding-bottom: 15px;
+//   padding-top: 5px;
+//   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+//   // .member-list-item:last-child {
+//   //   border-bottom: none;
+//   // }
+//   .list-item-image {
+//     border-radius: 50%;
+//     width: 64px;
+//   }
+//   .list-item-content {
+//     margin-left: 20px;
+//   }
+//   .list-item-content h4,
+//   .list-item-content p {
+//     margin: 0;
+//   }
+//   .list-item-content h4 {
+//     font-size: 18px;
+//   }
+//   .list-item-content p {
+//     margin-top: 5px;
+//     color: #aaa;
+//     max-width: 800px;
+//   }
+// }
 
-@media (max-width: 480px) {
-  .member-list-item {
-    .list-item-image {
-      display: none;
-    }
-    .list-item-content {
-      margin: 0;
-    }
-  }
-}
+// @media (max-width: 480px) {
+//   .member-list-item {
+//     .list-item-image {
+//       display: none;
+//     }
+//     .list-item-content {
+//       margin: 0;
+//     }
+//   }
+// }
 // MEMBER PAGE STYLE ends
 
 @media (orientation: landscape) {
