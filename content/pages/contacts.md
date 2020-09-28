@@ -6,12 +6,11 @@ slug: contacts
 draft: false
 ---
 1. Narayanan, Ranjit - Owner and Admin
-
 2. S. Vasant Kumar - Admin
 
 We respect every individual comments and valuable feedback. 
 
-![feedback](/media/how-to-give-feedback-header.png "feedback")
+![feedback](/media/rating.gif "feedback")
 
 We request you to share your feedback to the below mentioned email address.
 
