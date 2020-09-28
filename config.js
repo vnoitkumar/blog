@@ -26,8 +26,8 @@ module.exports = {
       path: '/authors'
     },
     {
-      label: 'Members',
-      path: '/pages/members'
+      label: 'About Writer\'s ARK',
+      path: '/pages/about-writers-ark'
     },
     {
       label: 'Contact us',
