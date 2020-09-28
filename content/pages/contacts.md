@@ -10,7 +10,7 @@ draft: false
 
 We respect every individual comments and valuable feedback. 
 
-![feedback](/media/rating.gif "feedback")
+![feedback](/media/unnamed.gif "feedback")
 
 We request you to share your feedback to the below mentioned email address.
 
