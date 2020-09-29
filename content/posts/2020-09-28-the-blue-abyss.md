@@ -1,6 +1,6 @@
 ---
 template: post
-title: THE BLUE ABYSS
+title: the blue abyss....
 slug: the-blue-abyss
 draft: false
 date: 2020-09-28T17:34:23.709Z
