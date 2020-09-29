@@ -1,6 +1,6 @@
 ---
 template: post
-title: My Wandering Mind
+title: my wandering mind....
 slug: my-wandering-mind
 draft: false
 date: 2020-09-28T12:38:11.848Z
