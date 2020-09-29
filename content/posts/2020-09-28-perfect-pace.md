@@ -1,6 +1,6 @@
 ---
 template: post
-title: PERFECT PACE
+title: perfect pace
 slug: perfect-pace
 draft: false
 date: 2020-09-28T16:33:00.144Z
