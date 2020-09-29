@@ -8,7 +8,7 @@ description: Love Poem
 submission: POEMS
 author: DIVYA
 ---
-![](/media/gtnuk1601311133.jpg)
+![](/media/xw5fd1601386930.jpg)
 
 That's not how we are supposed to end!
 
