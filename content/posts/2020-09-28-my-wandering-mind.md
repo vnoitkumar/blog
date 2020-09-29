@@ -8,7 +8,7 @@ description: Poignant Poem
 submission: POEMS
 author: VASANT KUMAR
 ---
-![](/media/tr39f1601310160.jpg)
+![](/media/li4od1601387458.jpg)
 
 What is the source of my dreams ,\
 Wherein lies the pot of gold ,\
