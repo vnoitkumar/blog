@@ -6,9 +6,9 @@ draft: false
 date: 2020-09-28T16:33:00.144Z
 description: Beautiful poem
 submission: POEMS
-author: GEETA
+author: GEETHA
 ---
-![](/media/photo-1546979348-7a211780ad7f.jpeg)
+![](/media/bvo6w1601351873.jpg)
 
 Let it all go, move on and on;
 
