@@ -1,6 +1,6 @@
 ---
 template: post
-title: JUST FOR A LARK
+title: Just for a lark
 slug: just-for-a-lark
 draft: false
 date: 2020-09-27T13:27:52.734Z
