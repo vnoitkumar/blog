@@ -1,6 +1,6 @@
 ---
 template: post
-title: DO BIGHA ZAMEEN
+title: Do Bhiga Zameen
 slug: do-bigha-zameen
 draft: false
 date: 2020-09-27T08:51:14.819Z
