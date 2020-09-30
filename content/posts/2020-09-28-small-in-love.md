@@ -8,7 +8,7 @@ description: Romantic Poem
 submission: POEMS
 author: PANJAMI
 ---
-![](/media/opgh81601313034.jpg)
+![](/media/sd97o1601467036.jpg)
 
 Of all my paradoxes
 
