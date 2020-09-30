@@ -1,6 +1,6 @@
 ---
 template: post
-title: Small in Love
+title: small in love
 slug: small-in-love
 draft: false
 date: 2020-09-28T16:44:27.712Z
