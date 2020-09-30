@@ -1,6 +1,6 @@
 ---
 template: post
-title: AN ODE TO THE RAIN
+title: an ode to the rain
 slug: an-ode-to-the-rain
 draft: false
 date: 2020-09-29T04:31:44.842Z
