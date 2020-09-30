@@ -1,6 +1,6 @@
 ---
 template: post
-title: A BETROTHAL UNSTUCK
+title: a betrothal unstuck
 slug: a-betrothal-unstuck
 draft: false
 date: 2020-09-29T04:10:11.873Z
