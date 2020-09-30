@@ -1,6 +1,6 @@
 ---
 template: post
-title: THE ENCHANTED SPELL
+title: the enchanted spell...
 slug: the-enchanted-spell
 draft: false
 date: 2020-09-28T17:21:31.311Z
