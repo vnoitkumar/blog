@@ -6,7 +6,7 @@ module.exports = {
   url: 'https://writersark.com',
   pathPrefix: '/',
   title: appName,
-  subtitle: '',
+  subtitle: 'Writer’s Ark is a platform to celebrate the passion for writing.',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,7 +26,7 @@ module.exports = {
       path: '/authors'
     },
     {
-      label: 'About Writer\'s ARK',
+      label: "About Writer's ARK",
       path: '/pages/about-writers-ark'
     },
     {
@@ -41,7 +41,7 @@ module.exports = {
   author: {
     name: appName,
     photo: '/logo.png',
-    bio: '',
+    bio: 'Writer’s Ark is a platform to celebrate the passion for writing.',
     contacts: {
       // to change the order of the icon change it in use-site-metadata.js file
       // email: 'writersark2020@gmail.com',
