@@ -12,7 +12,7 @@ description: "written on a foggy morning by the banks of the Changu Lake, at a
 submission: POEMS
 author: PAUL MATHEW
 ---
-![](/media/lx4bk1601313887.jpg)
+![](/media/ccrad1601467218.jpg)
 
 spirit lakes
 
