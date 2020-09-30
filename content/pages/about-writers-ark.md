@@ -1,14 +1,14 @@
 ---
-title: "About Writer's ARK"
-template: "page"
-slug: "about-writers-ark"
+template: page
+title: About Writer's ARK
+slug: about-writers-ark
 draft: false
 ---
+Writer’s Ark is a platform to celebrate the passion for writing. The objective is to provide a platform for budding writers to explore, learn, practice and evolve as wonderful writers. We encourage original submissions of short stories, poetry, satire, and nonfiction content. We will not accept any article that has potential to stir controversies and affect religious, political sentiments. 
+Membership is by invitation only.
+In our submissions, the names, characters, businesses, places, events, locales, and incidents are either the products of the author's imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events are purely coincidental. Any specific objection from readers shall be considered if the claim is justified with proper evidence and the subject article will be removed.
+Plagiarism is a crime here. 
+Welcome to the Ark. The canvas is yours, writers. Go creative!
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+\-Ranjit Narayanan
+Administrator
