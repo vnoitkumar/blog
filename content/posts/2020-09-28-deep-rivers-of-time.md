@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T16:12:16.928Z
 description: Love Poem
 submission: POEMS
-author: DIVYA
+author: Divya
 ---
 ![](/media/xw5fd1601386930.jpg)
 
