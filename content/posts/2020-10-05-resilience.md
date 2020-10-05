@@ -1,6 +1,6 @@
 ---
 template: post
-title: RESILIENCE
+title: Resilience
 slug: resilience
 draft: false
 date: 2020-10-05T05:16:51.746Z
