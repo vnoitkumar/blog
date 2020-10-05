@@ -10,11 +10,7 @@ author: Paul Mathew
 ---
 ![](/media/pauls_poem.jpeg)
 
-
-
 **om shanti, shanti, shantihi . . . .**
-
-
 
 i was walking back
 
@@ -215,3 +211,9 @@ i nodded
 plucked a tuft of hair from my head
 
 and fed it to the fire.
+
+
+
+
+
+*Paul Mathew is an ex Army Officer. Has been actively engaged with Theatre (as an actor, actor trainer, and playwright) since 1968 when  he performed his first full fledged play. He has combined  Army, Corporate, and Theatre experience, into an experiential workshop methodology called "Corporate Theatre" which has been used for facilitating high performance leadership and team dynamics by several Indian as well as Multi-national organizations. Paul writes plays, stories, some of which have been performed on stage.*
