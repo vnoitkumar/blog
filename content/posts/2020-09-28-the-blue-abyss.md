@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T17:34:23.709Z
 description: Nature Poem
 submission: POEMS
-author: PRATHIMA ASHOK
+author: Prathima Ashok
 ---
 ![](/media/120096171_10158100298117690_4595160365295607291_o.jpg)
 
