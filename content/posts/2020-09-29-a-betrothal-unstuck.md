@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-29T04:10:11.873Z
 description: A thought provoking poem
 submission: POEMS
-author: STANLEY COUTINHO
+author: Stanley Coutinho
 ---
 ![](/media/a98h81601354361.jpg)
 
