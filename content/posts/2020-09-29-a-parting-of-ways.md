@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-29T03:23:25.619Z
 description: A poignant poem on separation
 submission: POEMS
-author: PAUL MATHEW
+author: Paul Mathew
 ---
 ![](/media/369tt1601351519.jpg)
 
