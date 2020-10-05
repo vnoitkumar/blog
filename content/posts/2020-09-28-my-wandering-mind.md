@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T12:38:11.848Z
 description: Poignant Poem
 submission: POEMS
-author: VASANT KUMAR
+author: Vasant Kumar
 ---
 ![](/media/li4od1601387458.jpg)
 
