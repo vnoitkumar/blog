@@ -6,7 +6,7 @@ draft: false
 date: 2020-10-04T02:29:12.482Z
 description: Book Review by Stanley Coutinho
 submission: STANLEY SUNDAYS
-author: STANLEY COUTINHO
+author: Stanley Coutinho
 ---
 ![pc: Goodreads](/media/42270835._sy475_.jpg)
 
