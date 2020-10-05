@@ -8,9 +8,7 @@ description: A thought provoking poem
 submission: POEMS
 author: Stanley Coutinho
 ---
-![](/media/a98h81601354361.jpg)
-
-
+![](/media/120955085_10207997402929085_2559818890355247788_n.jpeg)
 
 ‘To sleep, perchance, to dream,’ I quoted\
 The first time that we met … and parted;\
