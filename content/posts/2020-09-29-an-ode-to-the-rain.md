@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-29T04:31:44.842Z
 description: Beautiful Rain poem
 submission: POEMS
-author: PRATHIMA ASHOK
+author: Prathima Ashok
 ---
 ![](/media/wz6oa1601355323.jpg)
 
