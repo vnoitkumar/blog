@@ -8,7 +8,7 @@ description: Sometimes I get morning greetings with some images that evoke
   different responses. These birds of paradise, a beauty in themselves, were
   doubted as, perhaps, the product of some lo
 submission: STANLEY SUNDAYS
-author: STANLEY COUTINHO
+author: Stanley Coutinho
 ---
 ![](/media/ijuob1601350689.jpg)
 
