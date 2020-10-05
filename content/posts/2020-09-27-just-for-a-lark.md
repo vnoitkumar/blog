@@ -7,7 +7,7 @@ date: 2020-09-27T13:27:52.734Z
 description: Short Story by Padmini (Published in the International Journal on
   Multicultural Literature Vol.10)
 submission: SHORT STORIES
-author: PADMINI VISWANATHAN
+author: Padmini Viswanathan
 ---
 
 
