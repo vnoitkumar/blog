@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T17:07:45.888Z
 description: Beautiful Poem
 submission: POEMS
-author: PAUL MATHEW
+author: Paul Mathew
 ---
 ![](/media/d2q6p1601467488.jpg)
 
