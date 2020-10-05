@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T16:44:27.712Z
 description: Romantic Poem
 submission: POEMS
-author: PANJAMI
+author: Panjami
 ---
 ![](/media/sd97o1601467036.jpg)
 
