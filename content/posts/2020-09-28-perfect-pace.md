@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T16:33:00.144Z
 description: Beautiful poem
 submission: POEMS
-author: GEETHA
+author: Geetha
 ---
 ![](/media/bvo6w1601351873.jpg)
 
