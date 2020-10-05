@@ -6,7 +6,7 @@ draft: false
 date: 2020-09-28T17:21:31.311Z
 description: Poem glorifying beauty of nature
 submission: POEMS
-author: PRATHIMA ASHOK
+author: Prathima Ashok
 ---
 ![](/media/pratima.jpg)
 
