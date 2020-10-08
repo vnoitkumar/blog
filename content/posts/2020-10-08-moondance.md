@@ -1,7 +1,7 @@
 ---
 template: post
 title: moondance
-slug: ART GALLERY
+slug: moondance
 draft: true
 date: 2020-10-08T17:41:37.570Z
 description: At first I just walked past her, but then there she was playing
