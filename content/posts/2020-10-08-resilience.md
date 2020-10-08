@@ -42,8 +42,6 @@ Recent writers have recorded their experiences of having lived through … and c
 
 *When the amygdala spurs you to “flight”*
 
-
-
 *For there's no scope of a “fight” here*
 
 *Who will you fight with?*
@@ -58,7 +56,7 @@ Recent writers have recorded their experiences of having lived through … and c
 
 *that **you** have always longed for.*
 
-*that you long for **now***
+\*that you long for **now***
 
 *And you long … to end it all,*
 
@@ -78,11 +76,9 @@ Recent writers have recorded their experiences of having lived through … and c
 
 *how do you cope?*
 
-
-
 In 2019 there were 38 million living with HIV the world over (with 1.7 million new cases); 690,000 had died due to HIV. With 38 million **infected**, there would be nothing less than 160 million people, close relatives and dependents, **affected**.
 
-In his novel, “***Em and The Big Hoom***[<!--\[if !supportFootnotes]-->\[i]<!--\[endif]-->](#_edn1)” Jerry Pinto had provoked all these questions, emotions and more. In “***A Book of Light***”[<!--\[if !supportFootnotes]-->\[ii]<!--\[endif]-->](#_edn2), as the editor, he explores the miserable ways in which people try to “cope”. It is a collection of thirteen stories of people with whom he found the “same hurts and vulnerabilities”, each with their own *distancing* devices, all challenging, terrifying, demanding of them all that they had, and then some.
+In his novel, “***Em and The Big Hoom***” Jerry Pinto had provoked all these questions, emotions and more. In “***A Book of Light***”, as the editor, he explores the miserable ways in which people try to “cope”. It is a collection of thirteen stories of people with whom he found the “same hurts and vulnerabilities”, each with their own *distancing* devices, all challenging, terrifying, demanding of them all that they had, and then some.
 
 The stories tell of compassion, deep angst, a longing for “freedom” mixed with irrepressible love and devotion which itself is inexplicable, under the circumstances – stories of mental illness, disturbance, alcoholism; some compounded with cancer or suicide. Each story highlights the deep connectedness that keeps humans together as families; where the ties that bind us go much deeper than any vows of support “in sickness and in health”. Each situation explores the relationships which deepen with time and patience (the word “patience”, incidentally, comes from the Latin word for “suffering”). There is a strong tendency towards mental depression in empathy with the respective families by the time one has finished reading the stories.
 
@@ -104,17 +100,13 @@ The stories bring out the “clumsy kindness” of friends and relatives; some r
 
 *was that someone supposed to be me?*
 
-And then there is the trauma of riots: where most people had no idea what it means to wake up one morning and find yourself cast as “the other”. ***1984***[<!--\[if !supportFootnotes]-->\[iii]<!--\[endif]-->](#_edn3) speaks of the horrendous forms of mutual annihilation that we are still engaged in. It describes a Sikh mother trying to locate her son …
-
-
+And then there is the trauma of riots: where most people had no idea what it means to wake up one morning and find yourself cast as “the other”.  speaks of the horrendous forms of mutual annihilation that we are still engaged in. It describes a Sikh mother trying to locate her son …
 
 *“And then the crowd moved back. A clearing sprung up in the centre and you could see the dance of fire, the dance of death, gruesome, macabre, brutal.”*
 
 And one lives through that.
 
 It speaks of a time when neighbours turn into unrecognisable monsters, and everything thereafter is looked at in terms of what happened when the chips were down. Worse still, the perpetrators take the conflict and its outcome as an affirmation of their primacy, not unlike the spoils of war. You could see it in the arrogance at the Babri Masjid in 1992, in the easy brutality of the Staines’ killing in 1999, and in the repeated atrocities towards the Dalits elsewhere in India... the book speaks of the dark period when the nation was plunged into diabolic revelry – a morning after, with a shameful hangover.
-
-
 
 And then there’s that vain hope:
 
@@ -130,18 +122,12 @@ But, in the words of Samuel Beckett's Istrago (***Waiting For Godot***): "... No
 
 And whether in disease, violence or oppression it is you! You have to survive. It is you who ensures that life must go on, come what may.
 
-
-
-
-
 - - -
 
+ Em and The Big Hoom, Jerry Pinto. Aleph Book Company: 2012
 
+ A Book of Light – When A Loved One Has A Different Mind, Jerry Pinto – Editor, Speaking Tiger Publishing Pvt Ltd: 2016
 
-[<!--\[if !supportFootnotes]-->\[i]<!--\[endif]-->](#_ednref1) Em and The Big Hoom, Jerry Pinto. Aleph Book Company: 2012
-
-[<!--\[if !supportFootnotes]-->\[ii]<!--\[endif]-->](#_ednref2) A Book of Light – When A Loved One Has A Different Mind, Jerry Pinto – Editor, Speaking Tiger Publishing Pvt Ltd: 2016
-
-[<!--\[if !supportFootnotes]-->\[iii]<!--\[endif]-->](#_ednref3) 1984 - In Memory And Imagination, Personal Essays And Short Fiction On The 1984 Anti-Sikh Riots; Ed: Vikram Kapur; Manjul Publishing Pvt Ltrd, New Delhi: 2016
+ 1984 - In Memory And Imagination, Personal Essays And Short Fiction On The 1984 Anti-Sikh Riots; Ed: Vikram Kapur; Manjul Publishing Pvt Ltrd, New Delhi: 2016
 
 **Note**: The portions in italics are adaptations from the books cited
