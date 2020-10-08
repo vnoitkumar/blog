@@ -1,7 +1,7 @@
 ---
 template: post
-title: Resilience
-slug: resilience
+title: Life must go on
+slug: life-must-go-on
 draft: false
 date: 2020-10-08T17:02:09.640Z
 description: Resilience- Life must Go on
