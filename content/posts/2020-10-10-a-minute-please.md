@@ -28,8 +28,6 @@ author: Uma Krishnan
 
 ***At the gentle breeze passing by.***
 
-
-
 ***Alas! Won’t you spare a minute,***
 
 ***To pause, to gaze and to wonder,***
