@@ -8,7 +8,7 @@ description: Beautiful poem from Uma
 submission: POEMS
 author: Uma Krishnan
 ---
-![](/media/todd-kent-kw1p8r-uowi-unsplash.jpeg)
+![](/media/uma.jpeg)
 
 ***Spread all over this mountain plane;***
 
