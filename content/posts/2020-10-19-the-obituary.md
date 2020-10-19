@@ -10,6 +10,8 @@ description: Paul shares his moments with Ejji K Umamahesh, actor and multi
 submission: SHORT STORIES
 author: Paul Mathew
 ---
+![](/media/paul-reslience.jpg)
+
 When I first saw the obituary in the papers, I thought it was simply another of Ejji’s pranks. Just a few weeks before I had seen pictures of him organizing a car rally somewhere outside India and later serving up some of his extraordinary cuisine.
 
 When a few hours later, I learned that it was no prank, that Ejji’s ‘party’ here was truly over and he had moved the celebrations elsewhere, I was truly dismayed. We had exchanged notes on Facebook recently and his passing away was totally unexpected. But then I realized that mourning Ejji was the last thing he would have wanted. He wanted us to celebrate this too as we marvelled at and celebrated his life.
@@ -25,8 +27,6 @@ Macduff reports,
 With all respect to the great master I changed one word, the first one and wrote thus, as my celebratory message to his immediate family:
 
 *“Everything in his life became him like the leaving it. He died as one that had studied in death, to throw away the dearest thing he owed as it were a careless trifle.”*
-
-
 
 *Ejji lived and died on his own terms. I'm sure he is laying down terms for his innings in the next world too! Will miss you Ejji. And more particularly your 'Arsehole of the Day' – a truly Ejji-like, totally irreverent take on the moral and political absurdities that we experience in this so called Aatamanirbhar Bharath.! " I mean every word. . . .”*
 
