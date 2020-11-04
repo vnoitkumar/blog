@@ -4,7 +4,7 @@ title: The Art of Editing
 slug: the-art-of-editing
 draft: false
 date: 2020-11-04T17:44:53.363Z
-description: A tutorial on the art of editing
+description: A tutorial on the art of editing- by Sarveswari Sai Krishna
 submission: OPEN PAGE
 author: RANJIT
 ---
