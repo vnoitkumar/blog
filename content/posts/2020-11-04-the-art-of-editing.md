@@ -10,7 +10,7 @@ author: RANJIT
 ---
 ![](/media/kelly-sikkema-plso5chu9w0-unsplash.jpeg)
 
-***The Art of Editing***
+***The Art of Editing- Sarveswari Sai Krishna***
 
 This article is about editing. A checklist for self-editing or editing other’s work. This list is not exhaustive or exclusive.
 
