@@ -12,7 +12,7 @@ author: RANJIT
 
 ***The Art of Editing***
 
-We have seen articles about writing and reviewing. This one is about editing. A checklist for self-editing or editing other’s work. This list is not exhaustive or exclusive.
+This article is about editing. A checklist for self-editing or editing other’s work. This list is not exhaustive or exclusive.
 
 Here is a plotline
 
@@ -43,13 +43,9 @@ The story can start languidly, taking its own time to unravel or the narration c
 And a recap of the structural editing checklist
 
 1. Character consistency
-
 2. POV consistency
-
 3. Pace maintenance
-
 4. Do the subplots take the story forward?
-
 5. Genre consistency
 
 Now on to the next point
@@ -89,9 +85,7 @@ We have had a bird’s eye view of the story and taken note of the jarring error
 Recap
 
 1. Language
-
 2. Word selection
-
 3. Sentence construction
 
 Not all poetic sentences need space in your story. The writer should stay true to the plot and narration foremost. A beautiful sounding sentence in an inappropriate place is as bad as a grammatical error. It mars the flow. Vice versa hold true too. In a lyrical narration, sudden jump to colloquial language stands out like a sore thumb.
