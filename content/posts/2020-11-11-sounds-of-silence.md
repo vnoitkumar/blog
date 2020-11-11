@@ -5,7 +5,7 @@ slug: sounds-of-silence
 draft: false
 date: 2020-11-11T17:49:13.555Z
 description: malini flirts with nature in silence
-submission: SHORT STORY
+submission: SHORT STORIES
 author: Malini Nair
 ---
 ![](/media/img_4632.jpg.jpeg)
