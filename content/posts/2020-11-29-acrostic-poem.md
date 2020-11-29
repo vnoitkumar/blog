@@ -2,7 +2,7 @@
 template: post
 title: Acrostic Poem
 slug: acrostic-poem
-draft: true
+draft: false
 date: 2020-11-29T04:48:22.294Z
 description: A lesson on Acrostic Poems, with examples from Paul and Malini
 submission: OPEN PAGE
