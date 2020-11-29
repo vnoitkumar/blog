@@ -8,7 +8,7 @@ description: A lesson on Acrostic Poems, with examples from Paul and Malini
 submission: OPEN PAGE
 author: Ranjit
 ---
-![](/media/acrostic.jpeg)
+![]()
 
 What is an Acrostic?
 
@@ -47,12 +47,6 @@ Simply put by ***Paul Mathew*** as under
 **I**nviting one to
 
 **C**ontinue reading is acrostic verse.
-
-
-
-
-
-
 
 WRITER’S ARK ,as an Acrostic by ***Malini Nair***
 
