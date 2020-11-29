@@ -5,7 +5,7 @@ slug: acrostic-poem
 draft: true
 date: 2020-11-29T04:48:22.294Z
 description: A lesson on Acrostic Poems, with examples from Paul and Malini
-submission: TUTORIALS
+submission: OPEN PAGE
 author: Ranjit
 ---
 ![](/media/acrostic.jpeg)
