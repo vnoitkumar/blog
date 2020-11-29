@@ -8,8 +8,6 @@ description: A lesson on Acrostic Poems, with examples from Paul and Malini
 submission: OPEN PAGE
 author: Ranjit
 ---
-![]()
-
 What is an Acrostic?
 
 Acrostics are a fun poetic form that anyone can write. They have just a few simple rules, and this lesson will teach you how to create acrostic poems of your own.
