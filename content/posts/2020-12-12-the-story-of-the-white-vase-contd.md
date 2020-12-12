@@ -1,7 +1,7 @@
 ---
 template: post
-title: THE STORY OF THE WHITE VASE (Contd.)
-slug: THE STORY OF THE WHITE VASE (Contd.)
+title: The Story of the White Vase (Contd.)
+slug: the-story-of-the-white-vase-contd
 draft: false
 date: 2020-12-12T11:58:55.602Z
 description: "Padmini continues # Vase with a delightful story "
