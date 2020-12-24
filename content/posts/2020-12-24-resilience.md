@@ -1,7 +1,7 @@
 ---
 template: post
-title: Resilience
-slug: resilience
+title: Resilience To Fight
+slug: resilience-to-fight
 draft: false
 date: 2020-12-24T12:47:48.092Z
 description: Poem by Poorni
