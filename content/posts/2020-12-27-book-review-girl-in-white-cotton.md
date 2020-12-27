@@ -1,0 +1,31 @@
+---
+template: post
+title: "Book Review  : Girl in White Cotton"
+slug: book-review-girl-in-white-cotton
+draft: false
+date: 2020-12-27T06:44:45.354Z
+description: Stanley reviews Girl in White Cotton by Avni Doshi
+submission: STANLEY SUNDAYS
+author: Stanley Coutinho
+---
+![](/media/51jqsmgvnql._sx324_bo1-204-203-200_.jpg)
+
+What’s common between a *Girl in White Cotton* and *Burnt Sugar*?
+
+Well, they are two titles of a single book – the former for the Indian edition in 2019 and the latter for the rest of the world, in 2020. Considered together they throw additional light on the story as much as on its author.
+
+Antara is the disturbed protagonist; Tara is her mother – elusive and intriguing in her behaviour and her relationships. “Antara” has many meanings, for example: interior (as in *antar-atma*, inner soul); or deviation/difference/distance or gap/interval; or switchover. Antara is also a term in Hindustani classical music, forming a sort of secondary theme in a vocal performance... but that might be stretching the note a bit too far. On rare occasions, it can mean “the opposite” as in antonym. Is Antara (un-tara) the opposite of Tara? Was Antara then the un-making of Tara? Antara has a daughter who is named “Anikka”. And all three of them qualify for a claim to the title: Girl. In. White. Cotton.
+
+Burnt Sugar, on the other hand, is caramel … or is it, actually, sugar burnt beyond redemption? The sugar burnt, unattended, and far from the possibilities of landing on a caramelised dessert turned into something bitter, indigestible, deserted. Perhaps. 
+
+Antara is born in a conservative family where her mother was required to wait at the door for her husband’s arrival in the evening, and then he would sit at his mother’s knee. By the time Antara was five, her parents had divorced, and Tara had gone over to an ashram where she became the mistress of the god-man. The mistress who was thus replaced becomes a mother to Antara – leaving Antara emotionally tied to her (Kali Mata) more than to Tara, creating a deep lack somewhere within her … and when the god-man finds another plaything, Tara moves out of the ashram with Antara and begs at its gates. Eventually, her parents take her home.
+
+# Antara, now married, speaks of her mother’s decline into dementia and the book revolves around how the troubled daughter cares for her deteriorating mother. There is physical evidence of dementia and no medical evidence. But the novel is not about this specific relationship in spite of the first line of the novel: "I would be lying if I said my mother's misery has never given me pleasure”. One wonders if this is a jibe at Antara herself, the loving care-giver who has her reservations like most indulgent daughters. Most women would, I’m sure, identify with that first sentence, which will keep them going till the last pages; until that final, nerve-shattering, realisation, the surreal depiction of the relationship between Tara and Antara. There is a feeling of *déjà vu* – of how we take our familial relations for granted, how much they are a part of us, how much they make us but, more so, how much they unmake us.
+
+On the way, we find Antara holding on to the tenuous bond she has with her father – who remarries and has a son; she gets into a relationship with one of her mother’s lovers (shades of *Electra*?!)but human relationships are not easily labelled outside Freudian texts. But what is remarkable is that all the men in the novel are flat characters (E.M. Forster: Aspects of The Novel: 1927). They tend to exist as uneasy props in the narrative, like prince-consorts, dutifully self-effacing and, when called upon to appear, making their appearances as unobtrusively as possible. Deepak, Antara’s husband, is a sounding board for her frustrations and doubts, he is a ‘linear, disciplined’ thinker; his world ‘contained, finite’; Antara’s father enters tentatively, whenever he is summoned by the demands of the narrative; Reza, the shared lover, is in the background somewhere as a likely cause of tension between Antara and Deepak. Between Antara and Tara – a careless painting that could surface at awkward moments. Then there is her half-brother who is there only for dramatic relief. The fifth male character is the doctor, who behaves like a doctor should! He comes alive in a way when he tells Antara that she should get some help … caretakers are also known to lose their hold on reality.
+
+The novel could easily be labelled as somewhat “feminist” …dwelling, as it does in certain parts, on the price women have to pay for taking their own life-decisions, and the social expectations about women. That would probably trivialise the depth of the novel. Womanhood and motherhood are certainly at the centre of the story but as necessary conveyors of a greater, deeper truth: Where, in a relationship so conventional, so taken-for-granted, as between a mother and daughter, does love begin? Is it possible for a mother to harbour jealousy towards her daughter? Or vice versa? Could a mother plot against her daughter in the matter of love, attention, fulfilment? Or vice versa? How do you hate someone and yet refrain from villainising her? *“Maybe our mothers create a lack in us, and our children continue to fulfil the prophecy…”* 
+
+There is a definite love-hate relationship between the Tara and Antara. Antara plans to kill her diabetic mother with sweets; Tara threatens to destroy her daughter’s marriage by telling Deepak about Reza. There is motherhood, nonchalant and avantgarde between Tara and Antara; there is tenderness (“…my aural reach can pick up the movement of my daughter’s breath across the city”) between Antara and Anikka. And there is love between Antara and her mother … believe it or not.
+
+The frontispiece (a quote from *The Chronology of Water* by Lidia Yuknavitch: Canongate Books Ltd: 2019), asks a disturbing question: Does the wound of daughter turn into something else if left unattended? The cover of the Indian edition shows the name of novel on pieces of torn paper. A girl torn apart between her trust … and reality; between the wound that she tried to tend and the scab that flew in her face.
