@@ -28,7 +28,7 @@ When the loved one did depart?
 
 Was it a shrine for a beloved God?
 
-Or a sepulcher to mourn one’s dear dead
+Or a sepulchre to mourn one’s dear dead
 
 Was it an old king’s lookout post?
 
