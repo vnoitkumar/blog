@@ -9,4 +9,4 @@ description: A Resilient Sunset not to be outdone by the brick and mortar,
 submission: ART GALLERY
 author: Malini Nair
 ---
-![](/media/malini-mumbai-1-.jpeg)
+![](/media/malini.jpeg)
