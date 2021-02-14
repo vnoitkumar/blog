@@ -1,7 +1,7 @@
 ---
 template: post
 title: Valentine's Day
-slug: valentine's-day
+slug: valentine-s-day
 draft: false
 date: 2021-02-14T10:59:04.987Z
 description: Valentine's Day ruminations with a Goan flavour from Stanley
