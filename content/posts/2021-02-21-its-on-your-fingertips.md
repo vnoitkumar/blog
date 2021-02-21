@@ -1,7 +1,7 @@
 ---
 template: post
 title: Its on Your Fingertips!
-slug: its-on-your-fingertips
+slug: its-on-your-fingertips-
 draft: false
 date: 2021-02-21T15:09:17.698Z
 description: Stanley analyses the significance of dactyloscopy- the study of
