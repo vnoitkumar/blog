@@ -5,7 +5,7 @@ slug: the-gate-of-nobility
 draft: false
 date: 2021-02-27T17:00:12.205Z
 description: Inspired by Purdah of Munshi Premchand , a modern day story of
-  reality behind the camouflage
+  reality behind the halo of ordinary man in politics
 submission: SHORT STORIES
 author: Ranjit
 ---
