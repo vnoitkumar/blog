@@ -9,7 +9,7 @@ description: Inspired by Purdah of Munshi Premchand , a modern day story of
 submission: SHORT STORIES
 author: Ranjit
 ---
-![](/media/a7aa6313e8d03492b4d43851b607f0fa.jpeg)
+![](/media/a7aa6313e8d03492b4d43851b607f0fa-1-.jpeg)
 
 It was an unusually hot day at Idukki. The Monsoon was once again short-lived this year. The fan on the dais was generating more noise than air. Phalgunan finished his speech and folded the printout before placing it in his shirt pocket.
 
@@ -46,8 +46,6 @@ There was a stunned silence as the gate fully opened to the villagers’ view. P
 Phalgunan slid down to the floor holding on to the concrete wall of the *Tulasithara* for support. For a fleeting moment he thought he heard her prayers *“Deepam, Deepam”*as she gently placed the burning wick from the earthen lamp on the *Tulasithara* at sunset. The burnt wick was still there on the edge of the *Tulasithara.* He picked it up slowly and as if he remembered something, he searched for the printout and fished it out from his shirt pocket. He flipped to the side of the paper that was blank and took out his Pilot pen. He was trying to write.
 
 The glide of the pen scripted a hollow story. The ink had run dry long ago!
-
-
 
 **Glossary**
 
