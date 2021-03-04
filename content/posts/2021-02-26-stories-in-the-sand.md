@@ -10,34 +10,34 @@ author: Malini Nair
 ---
 ![](/media/patterns-of-life_-malini.jpeg)
 
-The waves receded into the womb of the sea
+The waves recede into the womb of the sea [](<>)
 
-And in its cyclical magic of boundless glee
+In its cyclical magic, boundless and free
 
-Ebbed and flowed, wondrous, magical and free,
+Afar, the horizon I could just behold
 
-Far towards the horizon that I could barely see
+With the ebb and flow my thoughts unfold
 
 I walked beside the waves and felt my sorrows shed
 
 My feet caressed by the warm, moist sand bed
 
-I watched the rising, mellow, orange sun
+I watched the rising, mellow, orange rays
 
-And the birds framed mid-flight on the sky so crimson
+And the birds framed mid-flight through the haze
 
-I looked into the sand, an allegory of life itself
+I looked into the sand, an allegory of life
 
-With myriad lines, circles, colours and shells
+Myriad patterns of harmony and strife!
 
 A beautiful kaleidoscope of exquisite patterns
 
 Mesmerising, momentary, until the wave returns!
 
-Time fragments the gossamer dream
+As time shatters a gossamer dream
 
-The waves crash in, its designs to redeem
+And weaves again promises to redeem
 
-Erasing and weaving the sand afresh
+The waves erase and sketch the sand afresh
 
 A sublime vision hued by the morning blush
