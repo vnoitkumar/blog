@@ -4,8 +4,8 @@ title: The Girl Who Knew No Fear
 slug: the-girl-who-knew-no-fear
 draft: false
 date: 2021-03-06T12:18:37.607Z
-description: Writer's Ark Celebrates Women's day with a lovely retelling of a
-  story of a brave and fearless woman in her hometown
+description: Writer's Ark Celebrates Women's day with Malini's lovely retelling
+  of a story of a brave and fearless woman
 submission: SHORT STORIES
 author: Malini Nair
 ---
