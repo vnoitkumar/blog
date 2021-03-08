@@ -9,6 +9,10 @@ description: Padmini writes about the misconceptions and judgement of women by
 submission: SHORT STORIES
 author: Padmini Viswanathan
 ---
+*by Padmini Viswanathan*
+
+
+
 When you go for a walk on the beach in the morning, especially during weekends, you see this poster offering to check your Mass Fat Index, no, I think it is Fat Mass Index (FMI) for FREE! There is a tall, slim man standing beside it. How would it look if there was a short, pudgy man instead? Would anyone check their FMI, I wondered, smiling. This was the latest health fad, I realized. Earlier we used to see people standing in front of tables offering “*Arugampul juice*” for diabetics and men with the boot of their car open offering “farm fresh” *keerai and katharikai.* In my mind the term “farm fresh” itself is associated with an over production of *katharikais.*
 
 I looked around wondering who would need to check their FMI. Not many of the senior citizens. Obviously they were there to exercise their aging muscles and creeking bones. Definitely not those smart young men wearing sleeveless t-shirts displayling their rippling muscles. Either they were there to enjoy the sea breeze, catch up with friends or just show off. Would that Junoesque woman over there need to check her FMI? I must admit right here that I included this sentence simply because I wanted to use the word ever since I read in Amitav Ghosh’s latest book that Mrs. Burham was a ‘Junoesque’ lady. Coming back to the subject, I realized that it was the middle aged and not-yet middle aged women who fell into the FMI checking category. And the men? They put on football paunches and will need a Paunch Measuring Index instead!
