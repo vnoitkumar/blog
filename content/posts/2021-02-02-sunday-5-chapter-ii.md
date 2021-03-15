@@ -5,7 +5,7 @@ slug: sunday-5-chapter-ii
 draft: false
 date: 2021-02-02T12:24:26.324Z
 description: "The Second Chapter of the story series  Sunday 5 from Stanley "
-submission: STANLEY SUNDAYS
+submission: SHORT STORIES
 author: Stanley Coutinho
 ---
 **The Morning After**
