@@ -1,7 +1,7 @@
 ---
 template: post
-title: Sunday 5- Chapter II
-slug: sunday-5-chapter-ii
+title: Sunday 5- part II
+slug: sunday-5-part-ii
 draft: false
 date: 2021-02-02T12:24:26.324Z
 description: "The Second Chapter of the story series  Sunday 5 from Stanley "
@@ -12,15 +12,13 @@ author: Stanley Coutinho
 
 Pappu:
 
-![](/media/shrenik-shah-6qftculkey4-unsplash.jpg)
+![]()
 
 Pappu woke up with the call to *Fajr*, the first prayer of the Muslims between dawn and sunrise. He blinked across the dark room occupied by five of them and saw the hands of the windup clock on the meat-safe glowing at 5:40; he also saw his mother already in a prayerful pose while his siblings slept soundly. She always used the morning call from the Masjid nearby to start her day’s work. They had this single room apartment in a two-storey building of the Sindhi Camp in Chembur – a cubby hole, but it was home. His father was happy with the accommodation given to him when they reached Bombay soon after the partition; he never spoke of those days but Pappu, the incurable tragedian, knew there were scars that the man wouldn’t care to talk about, particularly, the circumstances in which he lost his wife along the way, as they had scurried out of Lahore. A subsequent marriage, children, and his petty business kept him occupied, and satisfied with whatever the gods had blessed him with. In the semi-darkness, which would haunt him nostalgically all his life, Pappu saw his father softly padding his way towards the little faucet at the corner of the room, for a quick silent wash. In the other corner was the kitchen, which was just a makeshift table holding the kerosene-fed stove, and piles of utensils and plates on shelves that reached the ceiling. He would soon be off to his workshop where he did re-winding of motors and other electrical jobs. Pappu headed straight for the common toilet at the end of the corridor outside – it would be free at this time. If he were to reach a little late there would be a queue and ... he could never get used to the idea of someone standing outside the toilet while he was inside.
 
 Notwithstanding his domestic situation, Pappu was the happy-go-lucky type with a grin ever ready to jump at you at the oddest of times. His humour was entertaining though strange, macabre at times but never malicious. He used to work in a private firm which operated from a hole-in-the-wall office near Elphinstone College and, in those days when it was fashionable to speak of one’s salary in terms of ‘four-figures’ and ‘thousands’, he boasted of his ‘*half* thousand’. The eldest of three sons, he went to the Khalsa College at Matunga to do his BA in English Literature (much to his father’s displeasure), his younger brother joined the Rashtriya Chemicals & Fertilizers Corporation – better known locally as RCF – in an apprenticeship scheme for Electricians. The course was of three years’ duration, by the end of which he would be ready to assist his father in the business, perhaps, take it over in due time. The youngest brother had got his uncle in Kuwait to get him a job there.
 
 Pappu would, before he reported at his office at 10 am, spend time in the Udipi restaurant near the Law College. He found himself participating in discussions with unknown groups of students. Gradually, he found people who liked movies, detective fiction, and had an interest in the history of Bombay. Later, he got a job as a manager in a newly opened book store – which soon became a convenient place for the friends to meet.
-
-
 
 The journey from the book store near Flora Fountain (re-named in 1961 as “Hutatma Chowk” in honour of those who were shot down in the police firing, at the time of the re-organisation of the states of Maharashtra and Gujarat) back to Chembur was a one-and-a-half-hour-long nightmare, particularly through the Mohammed Ali Road, just a half-kilometre stretch, which sometimes took as much as 45 minutes to cross. He would walk a kilometre or so up to the Electric House in Colaba so that he could get an empty seat in the BEST bus. A book from the store was always there to keep him occupied. Almost an hour later, as the bus crossed the hump of the Eastern Express Highway after Sion, he would, sometimes, break into a distant smile. Going to “Bombay” as a kid, was a trip in itself, he recalled, being herded by nervous parents against being lost in the “big city”. There was, too, the memory of the fascinating lights of the refineries on the then distant horizon as they returned late in the evening, mostly by the old rickety buses of the BEST (traveling by the black-and-yellow taxi with its three-passenger limit, was out of the question). They had a fairyland effect, those lights, as the misty darkness seemed to glow with multicoloured stardust – which was all lost when RCF came and destroyed it with its harsh proximity and the too-obviously-functional illumination.
 
@@ -38,60 +36,30 @@ By the time his friends in other parts of the city were still grappling with the
 
 *Saturday, The 29th of June, 2019.*
 
-
-
-
-
 *“So,” Mario said, “Juggernaut-Modi has come in for a second term…”*
-
-
 
 *It was odd … Mario found himself wanting to cover up the silences … The old camaraderie floated below the surface somewhere, wanting to burst out but not quite managing to. There was a kind of urge to be at ease with each other, because it had been so, all those years ago; just because it had been so, many years ago … because Mario wanted sorely to relive, revive those times, the good and the bad, imposing the present good with the past not-so-good; those books that had lost their relevance in the course of the daily grind; the girls who had lighted up their discussions …now faded, wistful memories. At the same time, Mario’s stint with bureaucracy had brought with it an air of aloofness which he was not about to shed easily, it was an invisible shield that he had become comfortable with over the years; the tentativeness that was so characteristic of him in the old college days had almost disappeared, but he knew that it lurked beneath that veneer, to surface at awkward moments.*
 
-
-
 *Rafique had gone back to Johannesburg and set up a micro-finance company but, in a span of seven or eight years, shifted over to ship-breaking… his plush Audi parked at the entrance of the Club was his silent calling card. Mario had taken the local train to the Victoria Terminus (now re-named) and taken a cab from there. Different pathways, different experiences, four decades and more, much to catch up on. Or nothing. Where do we start?*
-
-
 
 *“Yeah, he’s doing good,” Rafique said, off-handed.*
 
-
-
 *“I am haunted by Advani’s warning about conditions that could mean another spell of the Emergency..., especially after this massive second victory.”*
-
-
 
 *“He is an old man with nothing to do!” He laughed comfortably because one could criticise Advani without any fear.*
 
-
-
 *“If you remember, he had gone to the extent of saying that ‘the forces that can crush democracy are stronger’.” Mario’s old habits of quoting straight from the sources had not disappeared; in fact, they had sharpened.*
-
-
 
 *“The man is frustrated, clearly… remember that he was not allowed a seat in the Cabinet. Modi did a good thing, bringing in the upper age limit for ministers.”*
 
-
-
 *“Yes, but ...”*
-
-
 
 *“Ok,” he said, raising his left index finger, “let’s forget about Advani. Do you personally see any signs of this …? um … what would you call it? “Autocracy”? …of some sort …?”*
 
-
-
 *“You don’t?” replied Mario, with a question. He could see that Rafique was shifting the discussion to a personal level, the level at which most people wouldn’t have had cause for complaint. “I don’t think even Modi himself could give you an unequivocal reply to that!” Mario said, and they both laughed.*
-
-
 
 *“Seriously, Rafique,” Mario went on, “if you remember, at the very personal level, there were very few of us who were affected by Indira Gandhi’s emergency also. The secretary of our students’ union had a brush with the police, as you probably know, but scraped through without getting hurt. And our constitution classes were a wash out… then, well, I didn’t participate in the anti-Congress/pro-Janata movement in 1977, and neither did I see you among all those who had taken to the streets.”*
 
-
-
 *“This silence over attacks on the minorities,” Mario continued, “… his ambivalence in Godhra… isn’t it similar to Mrs. Gandhi’s silence over Sanjay Gandhi’s excesses? Those compulsory sterilisation camps, the slum clearance in Delhi’s Turkman Gate …?”*
-
-
 
 *Rafique was silent, and Mario though he was remembering all that groundswell of campaigning of early 1977. Rafique’s mind had indeed strayed far away …to the narrow, winding lanes of the Asif Ali Road slums in New Delhi, in 1976, when the bulldozers came.*
