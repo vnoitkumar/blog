@@ -1,0 +1,27 @@
+---
+template: post
+title: "Book Review: An Orchestra of Minorities"
+slug: book-review-an-orchestra-of-minorities
+draft: false
+date: 2021-03-28T05:04:14.529Z
+description: "This Sunday Stanley reviews a classic by Nigeria Writer Chigozie Obioma "
+submission: STANLEY SUNDAYS
+author: Stanley Coutinho
+---
+![](/media/28.03.2021.jpg)
+
+Some books educate, some entertain. Some books enlighten, and some make you question your soul. The epics tend to do all. “An Orchestra of Minorities” by Chigozie Obioma comes quite close to becoming an epic. He employs the art of story-telling where the narrator is detached and god-like, which gives him the freedom to discern and evaluate the thoughts and intentions of all the characters – and guide them along the plot. Obioma, in fact, goes a little further – the narrator here is the “***chi**”**.***
+
+The chiof the Igbos of Nigeria (for that is where this novel hovers around) is “central in Igbo psychology and yet is elusive and enigmatic”. It could, very loosely, be understood as a person’s parallel identity in the spiritual world – based on the belief that “nothing can stand alone, there must always be another thing standing beside it”. The closest that one could get is to the concept of a “guardian angel” but that would explain but a miniscule part of the role of the chi. To understand the concept a little more I searched the internet for enlightenment, and found Chinua Achebe, the Nigerian novelist, poet, professor, and critic, (who is also acknowledged as the Father of Modern African writing). In his “Arrow of God”, (published in 1964, as a part of “The African Trilogy”) he writes that “without an understanding of the nature of chi one could not begin to make sense of the Igbo world-view”. Achebe’s work has been the subject of a great deal of analysis, a fairly detailed one can be seen in the article titled: “Chi in Igbo Cosmology” by Gubar Kagashura published in February 2017 (available on the net). The Igbo believe that a man receives his gifts/talents/character and his portion in life, before he comes into the world; there is an element of choice available to him at that point and it is his chi that presides over that initial bargaining. Hence, if we observe that a man’s misfortune is somehow beyond comprehension, it can only be attributable to that agreement with his chi; so, nothing can happen to a person for which he is not responsible; and, in a way, it may explain questions such as we often ask: why do bad things happen to good people?
+
+So, through the chi of Chinonso, the central character in the novel under review, Obioma gives us some idea of what chi is, its ability (and limitations) in influencing the life of its “host”, and its relation to the Almighty (i.e., Chukwu).
+
+Obioma, born in Nigeria and educated in Cyprus, now teaches at the University of Nebraska-Lincoln. While in Cyprus, he saw the plight of the Nigerian students – duped by agents. His essay “Ghosts of My Student Years in North Cyprus” which appeared in The Guardian (January 2016) is a sort of preview to the events described in the novel; he highlights therein a scary similarity between the “birdlime” that attracts and traps pigeons, and the “ambitious young men and women, their wings aching to fly, trapped,” some to die, some to wander aimlessly … Thus, the story moves between Nigeria and Cyprus, presenting a sad study of the primordial tussle between fate and free will.
+
+And then there’s the other analogy. Chinonso, a poultry farmer, falls in love with a girl from an “educated” background; the girl defies her parents, goes to live with him and, by chance, hears the wailing of the chickens when one of them is snatched by a hawk. Chinonso calls it the orchestra of minorities, the mourning of the weaker persons or communities against the onslaught of the strong. A song that he himself sings at the end of the story – the perpetrator and the victim. Even as his chi pleads for him at the feet of Chukwu. In fact, the entire story is a record of Chinonso’s chi pleading with the Almighty … and as the narrative flits between English and Igbo (the numerous proverbs and the myriad ways in which the Almighty is addressed), a thrilling shroud of mystery envelopes the events and the characters, the relationship between Chukwu and the Chi – and course, the human host.
+
+And, as I delved into the “Igbo cosmology” I found one very intriguing fact that seems to tie the ancient Igbo to the ancient Goan!
+
+Both lay great store by anthills: the Igbo worship them on the belief that all creation started from an anthill – a symbol of Mother Earth as the source of all life. The anthill (known in Goa as Santer) was worshipped by the ancient tribes of Goa, and adopted by the later settlers, both Indo-Aryan and Dravidian. The Mother Goddess (in various forms) dominates the belief systems. A. R. Dhume, in his 1986 publication of “The Cultural History of Goa from 10000 BC to 1352 AD”, gives a fair account of anthill worship in Goa, and the course it has taken over the centuries. Several folk-songs have references to this ancient form of worship; these songs are particularly heard during the celebrations of the Dhalo (a festival during the month of Paush – the tenth month of the lunar calendar – roughly corresponding to March-April in the Gregorian calendar).
+
+Anthills do create an eerie link between the two ancient communities; the wailing of chickens is fast becoming another link. Equally eerie.
