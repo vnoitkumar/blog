@@ -8,7 +8,9 @@ description: Stanley sends us a beautiful Acrostic poem this Sunday
 submission: POEMS
 author: Stanley Coutinho
 ---
-![](/media/video_image-njwqrue7vy.jpeg)
+![](/media/11-april-a.jpg)
+
+![](/media/11-april-b.jpg)
 
 **Astonished**, amazed, surprised am I
 
@@ -16,11 +18,9 @@ author: Stanley Coutinho
 
 **T**he colours of the morning eye
 
-**O**r the evening skies e’en as they burn.
+**O**r the evening skies e’en as they burn.                           
 
-![](/media/11-april-a.jpg)
-
-**N**o! Thatexcitement shall ne’er die!
+**N**o! That excitement shall ne’er die!
 
 In clouds that cling to the mountainside
 
@@ -29,8 +29,6 @@ In clouds that cling to the mountainside
 **H**ow merrily do I tromp beside
 
 My friends who’ve won their heart’s delight
-
-![](/media/11-april-b.jpg)
 
 **Each** day an adventure does provide
 
