@@ -4,7 +4,7 @@ title: The Illness of Addiction
 slug: the-illness-of-addiction
 draft: false
 date: 2021-04-24T12:40:24.493Z
-description: "An eye-opener on the social locus standi on substance abuse "
+description: "An eye-opener on substance abuse and mitigation "
 submission: OPEN PAGE
 author: Joey Carvalho
 ---
