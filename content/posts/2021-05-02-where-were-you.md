@@ -1,8 +1,8 @@
 ---
 template: post
-title: WHERE WERE YOU
-slug: where-were-you
-draft: true
+title: WHERE WERE YOU?
+slug: where-were-you-
+draft: false
 date: 2021-05-02T14:35:35.206Z
 description: Stanley submits a poem on Anger "Prompt", also featured on Margao
   Book club weekly Poems
