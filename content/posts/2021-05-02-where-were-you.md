@@ -6,7 +6,7 @@ draft: true
 date: 2021-05-02T14:35:35.206Z
 description: Stanley submits a poem on Anger "Prompt", also featured on Margao
   Book club weekly Poems
-submission: POEMS
+submission: Stanley Sundays
 author: Stanley Coutinho
 ---
 ![](/media/amel-majanovic-cmytournib4-unsplash.jpeg)
