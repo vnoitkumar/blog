@@ -9,7 +9,7 @@ description: Malini's take on the Picture Prompt Poetry in the context of the
 submission: POEMS
 author: Malini Nair
 ---
-![](/media/malini.jpeg)
+![]()
 
 *The sky at dusk was, ablaze, glowing,*
 
