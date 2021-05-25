@@ -8,7 +8,7 @@ description: Picture prompt poem by Stanley
 submission: POEMS
 author: Stanley Coutinho
 ---
-![]()
+![](/media/stanley.jpeg)
 
  **I**
 
